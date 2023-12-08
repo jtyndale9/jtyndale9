@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **AI Model Tuning and Penetration testing**
 
+- ⚡ Next I want to make a pi-hole for my home network
+
 - 📫 How to reach me **josh.tyndale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
