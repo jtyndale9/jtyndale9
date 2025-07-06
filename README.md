@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Predicting Housing Prices](https://github.com/jtyndale9/Housing_Market_Analysis)
 
-- 🌱 I’m currently learning **AI Model Tuning and Penetration testing**
+- 🌱 I’m currently learning **ML Model Tuning (Computer Vision right now) and Penetration testing (CTFs)**
 
 - ⚡ Next I want to make a pi-hole for my home network
 
