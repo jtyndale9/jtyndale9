@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh Tyndale</h1>
 <h3 align="center">A curious software engineer</h3>
 
-- 🔭 I’m currently working on [Predicting Housing Prices](https://github.com/jtyndale9/Housing_Market_Analysis)
+- 🔭 I’m currently working on building a website (its a secret right now) (FastAPI/MySQL/Docker/ReactJS)
 
-- 🌱 I’m currently learning **ML Model Tuning (Computer Vision right now) and Penetration testing (CTFs)**
+- 🌱 I’m currently learning more about **Computer Vision and NLP models, and Penetration testing via CTFs**
 
 - ⚡ Next I want to make a pi-hole for my home network
 
